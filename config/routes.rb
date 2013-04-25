@@ -1,6 +1,10 @@
 Cmd::Application.routes.draw do
 <<<<<<< HEAD
+<<<<<<< HEAD
   resources :cursos
+=======
+  resources :materia
+>>>>>>> c5b7dcc72a9b624c50a10fdb676cae9fe605d6be
 =======
   resources :docentes
 >>>>>>> aab14b00478bd79e6b1b6c2d1a15aab71633e67b
