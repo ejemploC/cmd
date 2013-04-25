@@ -1,5 +1,9 @@
 Cmd::Application.routes.draw do
+<<<<<<< HEAD
   resources :materia
+=======
+  resources :docentes
+>>>>>>> aab14b00478bd79e6b1b6c2d1a15aab71633e67b
 
 
   # The priority is based upon order of creation:
