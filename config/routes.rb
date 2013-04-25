@@ -1,4 +1,7 @@
 Cmd::Application.routes.draw do
+  resources :materia
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
